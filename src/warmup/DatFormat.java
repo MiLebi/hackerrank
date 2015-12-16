@@ -1,3 +1,5 @@
+package warmup;
+
 import java.text.SimpleDateFormat;
         import java.util.Scanner;
 
